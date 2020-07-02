@@ -1,0 +1,2 @@
+Began working on the initial wiring on July 1st. We started with these instructions:
+https://tutorials-raspberrypi.com/connect-control-raspberry-pi-ws2812-rgb-led-strips/
